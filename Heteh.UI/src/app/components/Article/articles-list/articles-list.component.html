@@ -1,0 +1,113 @@
+<div class = "container">
+    <style>
+        h1 {
+          display: inline-block;
+        }
+        
+        button {
+          float: right;
+          margin-top: 5px;
+          margin-right: 5px;
+        }
+        </style>
+    <h1 class="mb-3">Articles</h1>
+    <!--<button type="button" class="btn btn-info" (click)="goToMyComponent()" >Add Article</button>-->
+    <button class="btn btn-lg btn-warning" (click)="openAdd(content)">Add Article</button>
+
+   <table class="table" *ngIf="articles && articles.length > 0">
+    <thead>
+        <tr>
+            <!--<th>Id</th>-->
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Eancode</th>
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let article of articles">
+            <!--<td>{{ Article.id }}</td>-->
+            <td>{{ article.name }}</td>
+            <td>{{ article.price }}</td>
+            <td>{{ article.quantity }}</td>
+            <td>{{ article.eancode }}</td>
+            <td><!-- Button trigger modal -->
+              <button class="btn btn-lg btn-warning buttonView" (click)="openEdit(content);readArticle(article.id)">View</button>
+            <!--<td><a [routerLink]="['edit', Article.id]">View</a></td>-->
+        </tr>
+    </tbody>
+
+   </table> 
+   <p *ngIf="!articles || articles.length <=0">No Articles Found</p>
+</div>
+
+
+   <!-- Modal Edit -->
+<ng-template #content let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-edit-article">Add Employee</h4>
+    <button type="button" class="btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')"></button>
+  </div>
+  <div class="modal-body">
+        <form #form="ngForm" (ngSubmit)="updateArticle(articleDetails.id,articleDetails)">
+        <div class="mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="name" name="name" [(ngModel)]="articleDetails.name">
+        </div>
+        <div class="mb-3">
+        <label for="price" class="form-label">Price</label>
+        <input type="number" class="form-control" id="price"
+        name="price" [(ngModel)]="articleDetails.price">
+         </div>
+        <div class="mb-3">
+        <label for="quantity" class="form-label">Quantity</label>
+        <input type="number" class="form-control" id="quantity"
+        name="quantity" [(ngModel)]="articleDetails.quantity">
+        </div>
+        <div class="mb-3">
+        <label for="eancode" class="form-label">Eancode</label>
+        <input type="number" class="form-control" id="eancode"
+        name="eancode" [(ngModel)]="articleDetails.eancode">
+        </div>
+        <button type="button" class="btn btn-danger" (click)="modal.close()">Close</button>
+      <button type="submit" class="btn btn-warning" (click)="modal.close()">Save</button>
+      </form>
+  </div>
+</ng-template>
+ 
+  <!-- Modal Add -->
+  <ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-add-article">Add Employee</h4>
+      <button type="button" class="btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')"></button>
+    </div>
+    <div class="modal-body">
+          <form #form="ngForm" (ngSubmit)="addArticle()">
+          <div class="mb-3">
+          <label for="name" class="form-label">Name</label>
+          <input type="text" class="form-control" id="name" name="name" [(ngModel)]="addArticleRequest.name">
+          </div>
+          <div class="mb-3">
+          <label for="price" class="form-label">Price</label>
+          <input type="number" class="form-control" id="price"
+          name="price" [(ngModel)]="addArticleRequest.price">
+          </div>
+          <div class="mb-3">
+          <label for="quantity" class="form-label">Quantity</label>
+          <input type="number" class="form-control" id="quantity"
+          name="quantity" [(ngModel)]="addArticleRequest.quantity">
+          </div>
+          <div class="mb-3">
+          <label for="eancode" class="form-label">Eancode</label>
+          <input type="number" class="form-control" id="eancode"
+          name="eancode" [(ngModel)]="addArticleRequest.eancode">
+          </div>
+          <button type="button" class="btn btn-danger" (click)="modal.close()">Close</button>
+          <button type="submit" class="btn btn-warning" (click)="modal.close()">Save</button>
+        </form>
+    </div>
+  </ng-template>
+
+<router-outlet></router-outlet>
+

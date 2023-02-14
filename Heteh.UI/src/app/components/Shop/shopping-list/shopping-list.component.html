@@ -1,0 +1,57 @@
+<div class = "container">
+    <style>
+        h1 {
+          display: inline-block;
+        }
+        
+        button {
+          float: right;
+          margin-top: 3px;
+          margin-right: 5px;
+        }
+        </style>
+    <h1 class="mb-3">Save a lot with few clicks!</h1>
+    
+
+   <table class="table" *ngIf="articles && articles.length > 0">
+    <thead>
+        <tr>
+            <!--<th>Id</th>-->
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Eancode</th>
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let article of articles">
+            <td>{{ article.name }}</td>
+            <td>{{ article.price }}</td>
+            <td>{{ article.quantity }}</td>
+            <td>{{ article.eancode }}</td>
+            <td>
+               <button type="button" class="btn btn-primary btn-sm" >
+                    Buy
+                  </button>
+        </tr>
+    </tbody>
+
+   </table> 
+   <p *ngIf="!articles || articles.length <=0">We sold everything!</p>
+</div>
+<!--
+<div class="row">
+    <div class="col-4" *ngFor="let article of articles">
+      <div class="card">
+          <div class="card-body">
+          <h5 class="card-title">{{article.name}}</h5>
+          <p class="card-text">{{article.price}}</p>
+          <p class="card-text">{{article.quantity}}</p>
+          <p class="card-text">{{article.eancode}}</p>
+          <a href="#" class="btn btn-primary">Add to Cart</a>
+        </div>
+      </div>
+    </div>
+  </div>
+-->

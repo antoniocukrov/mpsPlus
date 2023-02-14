@@ -1,0 +1,123 @@
+<div class = "container">
+    <style>
+        h1 {
+          display: inline-block;
+        }
+        
+        button {
+          float: right;
+          margin-top: 5px;
+          margin-right: 5px;
+        }
+        </style>
+    <h1 class="mb-3">Employees</h1>
+    <button class="btn btn-lg btn-warning" (click)="openAdd(content)">Add Employee</button>
+
+   <table class="table" *ngIf="employees && employees.length > 0">
+    <thead>
+        <tr>
+            <!--<th>Id</th>-->
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Salary</th>
+            <th>Department</th>
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let employee of employees">
+            <!--<td>{{ employee.id }}</td>-->
+            <td>{{ employee.name }}</td>
+            <td>{{ employee.email }}</td>
+            <td>{{ employee.phone }}</td>
+            <td>{{ employee.salary }}</td>
+            <td>{{ employee.department }}</td>
+            <td>
+              <!-- Button trigger modal -->
+              <button class="btn btn-lg btn-warning buttonView" (click)="openAdd(content);readEmployee(employee.id)">View</button>
+        </tr>
+    </tbody>
+
+   </table> 
+   <p *ngIf="!employees || employees.length <=0">No Employees Found</p>
+</div>
+
+ <!-- Modal Edit -->
+<ng-template #content let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-edit-employee">Ed Employee</h4>
+    <button type="button" class="btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')"></button>
+  </div>
+  <div class="modal-body">
+        <form #form="ngForm" (ngSubmit)="updateEmployee(employeeDetails.id,employeeDetails)">
+        <div class="mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="name" name="name" [(ngModel)]="employeeDetails.name">
+        </div>
+        <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="text" class="form-control" id="email"
+        name="email" [(ngModel)]="employeeDetails.email">
+         </div>
+        <div class="mb-3">
+        <label for="phone" class="form-label">Phone</label>
+        <input type="number" class="form-control" id="phone"
+        name="phone" [(ngModel)]="employeeDetails.phone">
+        </div>
+        <div class="mb-3">
+        <label for="salary" class="form-label">Salary</label>
+        <input type="number" class="form-control" id="salary"
+        name="salary" [(ngModel)]="employeeDetails.salary">
+        </div>
+        <div class="mb-3">
+        <label for="department" class="form-label">Department</label>
+        <input type="text" class="form-control" id="department"
+        name="department" [(ngModel)]="employeeDetails.department">
+        </div>
+        <button type="button" class="btn btn-danger" (click)="modal.close()">Close</button>
+      <button type="submit" class="btn btn-warning" (click)="modal.close()">Save</button>
+      </form>
+  </div>
+</ng-template>
+ 
+  <!-- Modal Add -->
+  <ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-add-employee">Add Employee</h4>
+      <button type="button" class="btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')"></button>
+    </div>
+    <div class="modal-body">
+          <form #form="ngForm" (ngSubmit)="addEmployee()">
+          <div class="mb-3">
+          <label for="name" class="form-label">Name</label>
+          <input type="text" class="form-control" id="name" name="name" [(ngModel)]="addEmployeeRequest.name">
+          </div>
+          <div class="mb-3">
+          <label for="email" class="form-label">Email</label>
+          <input type="text" class="form-control" id="email"
+          name="email" [(ngModel)]="addEmployeeRequest.email">
+           </div>
+          <div class="mb-3">
+          <label for="phone" class="form-label">Phone</label>
+          <input type="number" class="form-control" id="phone"
+          name="phone" [(ngModel)]="addEmployeeRequest.phone">
+          </div>
+          <div class="mb-3">
+          <label for="salary" class="form-label">Salary</label>
+          <input type="number" class="form-control" id="salary"
+          name="salary" [(ngModel)]="addEmployeeRequest.salary">
+          </div>
+          <div class="mb-3">
+          <label for="department" class="form-label">Department</label>
+          <input type="text" class="form-control" id="department"
+          name="department" [(ngModel)]="addEmployeeRequest.department">
+          </div>
+          <button type="button" class="btn btn-danger" (click)="modal.close()">Close</button>
+        <button type="submit" class="btn btn-warning" (click)="modal.close()">Save</button>
+        </form>
+    </div>
+  </ng-template>
+  
+<router-outlet></router-outlet>
+
