@@ -1,0 +1,182 @@
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.csproj.AssemblyReference.cache
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.AssemblyInfoInputs.cache
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.AssemblyInfo.cs
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.csproj.CoreCompileInputs.cache
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.exe
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.deps.json
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.runtimeconfig.json
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.pdb
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.mpsPlus.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.build.mpsPlus.API.props
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.mpsPlus.API.props
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.mpsPlus.API.props
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\scopedcss\bundle\mpsPlus.API.styles.css
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.csproj.CopyComplete
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\refint\mpsPlus.API.dll
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.pdb
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.genruntimeconfig.cache
+C:\Users\Lord Pupcent\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\ref\mpsPlus.API.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\appsettings.json
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.exe
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.deps.json
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.runtimeconfig.json
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\mpsPlus.API.pdb
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.csproj.AssemblyReference.cache
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.AssemblyInfoInputs.cache
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.AssemblyInfo.cs
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.csproj.CoreCompileInputs.cache
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.mpsPlus.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.build.mpsPlus.API.props
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.mpsPlus.API.props
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.mpsPlus.API.props
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\scopedcss\bundle\mpsPlus.API.styles.css
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.csproj.CopyComplete
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\refint\mpsPlus.API.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.pdb
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\mpsPlus.API.genruntimeconfig.cache
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\obj\Debug\net6.0\ref\mpsPlus.API.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\anub0\Desktop\mpsPlus\mpsPlus.API\mpsPlus.API\mpsPlus.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
